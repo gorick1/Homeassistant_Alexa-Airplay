@@ -1,7 +1,7 @@
 {
   "name": "Aircast Echo Bridge",
   "version": "1.0.0",
-  "slug": "addon-aircast-echo",
+  "slug": "ha-addon-aircast-echo",
   "description": "Expose Echo devices as AirPlay targets using Aircast modifications",
   "arch": ["amd64", "armv7", "armhf", "aarch64"],
   "startup": "services",
